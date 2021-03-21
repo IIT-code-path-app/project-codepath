@@ -95,8 +95,7 @@ Cooking application that allows people to find cooking recipes suited to their t
    * Logout button to go back to login screen otherwise stay in this screen
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-
+<img src="https://user-images.githubusercontent.com/54512668/111924797-31b95100-8a74-11eb-9e81-c552f0e2b597.jpg" width=600>
 ### [BONUS] Digital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
