@@ -14,7 +14,6 @@ Original App Design Project - README Template
 Cooking application that allows people to find cooking recipes suited to their taste. They can find recipes based off the ingredients they have, the time to make food, a certain food, or how much they know how to cook.
 
 ### App Evaluation
-[Evaluation of your app across the following attributes]
 - **Category:** Social Networking/Food/Cooking
 - **Mobile:** This app would be only developed for mobile.  Functionality would only be limited to IOS.
 - **Story:** Analyzes users food choices, and connects them to other reicpes. The user can then decide to favorite the recipe to use or to add comments about the recipe.
@@ -94,12 +93,7 @@ Cooking application that allows people to find cooking recipes suited to their t
    * Can go to Search Screen if you click on the tab
    * Logout button to go back to login screen otherwise stay in this screen
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
 <img src="https://user-images.githubusercontent.com/54512668/112774397-2b405180-8fff-11eb-9706-e1598bff3efe.jpg" width=600>
-
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
 
 ## Schema 
 ### Models
@@ -145,7 +139,6 @@ Cooking application that allows people to find cooking recipes suited to their t
 
 - Setting screen
 
-
 ### Networking
 - Login Screen
     - (Create) New Account
@@ -185,8 +178,7 @@ Cooking application that allows people to find cooking recipes suited to their t
     - (post/POST) posting the name of the food.
     - (post/POST) posting the ingredients information.
     - (post/POST) posting the instructions of the food.
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+
 
 Base URL- www.ourFoodApp.com
 | HTTP Verb | Endpoint | Description|
@@ -194,3 +186,6 @@ Base URL- www.ourFoodApp.com
 | Get     | /food     | get all food list  |
 | Get     | /food/?fname=fname     | get food by names  |
 | Get     | /food/?aname=aname     | get food by author  |
+
+Milestone 1:
+<img src="http://g.recordit.co/wIvdqLbaK9.gif" width=250><br>
