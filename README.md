@@ -187,11 +187,5 @@ Base URL- www.ourFoodApp.com
 | Get     | /food/?fname=fname     | get food by names  |
 | Get     | /food/?aname=aname     | get food by author  |
 
-## Milestone 1:
-## ISSUES
-Problems with people not getting the right folders 
-
-## Sprint Planned for next week
-Get people aligned with the github and getting the pages interface to work.
 
 <img src="http://g.recordit.co/wIvdqLbaK9.gif" width=250><br>
