@@ -27,16 +27,16 @@ Cooking application that allows people to find cooking recipes suited to their t
 
 **Required Must-have Stories**
 
-* Users are able to register accounts 
-* Users are able to sign-in
-* Users are able to sign-out 
-* Users are able stay sign-in 
-* Users are able to post 
-* Users are able to view
-* Users are able to add comment 
-* Users are able to find recpies by ingredients/time/skill/name
-* Users are able to filter by ingredients/time/skill/name
-* Users are able to take picture of the food
+* [x] Users are able to register accounts 
+* [x] Users are able to sign-in
+* [ ] Users are able to sign-out 
+* [ ] Users are able stay sign-in 
+* [ ] Users are able to post 
+* [ ] Users are able to view
+* [ ] Users are able to add comment 
+* [ ] Users are able to find recpies by ingredients/time/skill/name
+* [ ] Users are able to filter by ingredients/time/skill/name
+* [ ] Users are able to take picture of the food
 
 **Optional Nice-to-have Stories**
 * Users are able to message
@@ -187,5 +187,11 @@ Base URL- www.ourFoodApp.com
 | Get     | /food/?fname=fname     | get food by names  |
 | Get     | /food/?aname=aname     | get food by author  |
 
-Milestone 1:
+## Milestone 1:
+## ISSUES
+Problems with people not getting the right folders 
+
+## Sprint Planned for next week
+Get people aligned with the github and getting the pages interface to work.
+
 <img src="http://g.recordit.co/wIvdqLbaK9.gif" width=250><br>
