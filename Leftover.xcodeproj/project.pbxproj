@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		470720E6261BF9D300855525 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 470720E5261BF9D300855525 /* HomeViewController.swift */; };
+		470720EB261BF9EB00855525 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 470720EA261BF9EB00855525 /* SearchViewController.swift */; };
+		470720F0261BFA0300855525 /* PostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 470720EF261BFA0200855525 /* PostViewController.swift */; };
+		470720F5261BFA2200855525 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 470720F4261BFA2200855525 /* ProfileViewController.swift */; };
 		571287AE2A6D54CF25A2EF59 /* Pods_Leftover_LeftoverUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 001F2D520A451BF01F97B5D4 /* Pods_Leftover_LeftoverUITests.framework */; };
 		82E375E08D3C1CB1DF4A9EBD /* Pods_LeftoverTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EE8467EF52D66DC843CB3F22 /* Pods_LeftoverTests.framework */; };
 		97099569261970E30007B2D4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97099568261970E30007B2D4 /* AppDelegate.swift */; };
@@ -42,6 +46,10 @@
 		07085DB25842E39AB02E054A /* Pods-Leftover-LeftoverUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Leftover-LeftoverUITests.debug.xcconfig"; path = "Target Support Files/Pods-Leftover-LeftoverUITests/Pods-Leftover-LeftoverUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		0F7B28BE52745E2DC3664E6E /* Pods-Leftover-LeftoverUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Leftover-LeftoverUITests.release.xcconfig"; path = "Target Support Files/Pods-Leftover-LeftoverUITests/Pods-Leftover-LeftoverUITests.release.xcconfig"; sourceTree = "<group>"; };
 		346ED64110E96DA9706B26F2 /* Pods-Leftover.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Leftover.debug.xcconfig"; path = "Target Support Files/Pods-Leftover/Pods-Leftover.debug.xcconfig"; sourceTree = "<group>"; };
+		470720E5261BF9D300855525 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		470720EA261BF9EB00855525 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
+		470720EF261BFA0200855525 /* PostViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostViewController.swift; sourceTree = "<group>"; };
+		470720F4261BFA2200855525 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 		5D1FE64DF2114275DCBBABC3 /* Pods-Leftover.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Leftover.release.xcconfig"; path = "Target Support Files/Pods-Leftover/Pods-Leftover.release.xcconfig"; sourceTree = "<group>"; };
 		97099565261970E30007B2D4 /* Leftover.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leftover.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		97099568261970E30007B2D4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -146,6 +154,10 @@
 				97099573261970E40007B2D4 /* LaunchScreen.storyboard */,
 				97099576261970E40007B2D4 /* Info.plist */,
 				970995A6261975000007B2D4 /* LoginViewController.swift */,
+				470720E5261BF9D300855525 /* HomeViewController.swift */,
+				470720EA261BF9EB00855525 /* SearchViewController.swift */,
+				470720EF261BFA0200855525 /* PostViewController.swift */,
+				470720F4261BFA2200855525 /* ProfileViewController.swift */,
 			);
 			path = Leftover;
 			sourceTree = "<group>";
@@ -406,9 +418,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				470720F0261BFA0300855525 /* PostViewController.swift in Sources */,
+				470720EB261BF9EB00855525 /* SearchViewController.swift in Sources */,
 				970995A7261975000007B2D4 /* LoginViewController.swift in Sources */,
 				97099569261970E30007B2D4 /* AppDelegate.swift in Sources */,
+				470720F5261BFA2200855525 /* ProfileViewController.swift in Sources */,
 				9709956B261970E30007B2D4 /* SceneDelegate.swift in Sources */,
+				470720E6261BF9D300855525 /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

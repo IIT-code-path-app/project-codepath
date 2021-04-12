@@ -9,13 +9,26 @@ import UIKit
 
 class PostViewController: UIViewController {
 
+    @IBOutlet weak var postPicture: UIImageView!
+    
+    @IBOutlet weak var foodName: UITextField!
+    
+    
+    @IBOutlet weak var ingredients: UITextField!
+    
+    
+    @IBOutlet weak var estimatedTime: UITextField!
+    
+    @IBOutlet weak var instructions: UITextField!
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
     }
     
-
+    @IBAction func post(_ sender: Any) {
+    }
+    
     /*
     // MARK: - Navigation
 
