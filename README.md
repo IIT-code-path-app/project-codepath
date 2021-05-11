@@ -187,4 +187,4 @@ Base URL- www.ourFoodApp.com
 | Get     | /food/?aname=aname     | get food by author  |
 
 
-<img src="http://g.recordit.co/VLOuDw7eb4.gif" width=250><br>
+<img src="http://g.recordit.co/gzeE3aGFr2.gif" width=250><br>
